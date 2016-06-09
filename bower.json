@@ -1,0 +1,22 @@
+{
+  "name": "Angular-navigation",
+  "homepage": "https://github.com/mbolanosc/Angular-navigation",
+  "authors": [
+    "mbolanosc <mrybc96@gmail.com>"
+  ],
+  "description": "Ejemplo de ngRoute",
+  "main": "index.html",
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "angular": "angularjs#^1.5.6",
+    "angular-route": "^1.5.6",
+    "bootstrap": "^3.3.6"
+  }
+}
